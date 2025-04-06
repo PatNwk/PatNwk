@@ -33,7 +33,7 @@ Actuellement, j'approfondis mes compétences en :
 
 ## 📫 Me Contacter
 
-- **Email** : patrick.nowak0613@gmail.com
+- **Email** : patrick.nowak@ynov.com
 - **LinkedIn** : [linkedin.com/in/patrick-nowak-479503333](https://www.linkedin.com/in/patrick-nowak-479503333/)
 
 ## 💡 Objectifs de Carrière
@@ -41,5 +41,3 @@ Actuellement, j'approfondis mes compétences en :
 Je suis passionné par le développement de solutions logicielles, mais mon objectif à long terme est de me spécialiser dans la cybersécurité. Je souhaite approfondir mes connaissances dans ce domaine afin de pouvoir concevoir des systèmes sûrs et protéger les infrastructures critiques. En attendant, je suis motivé par l'acquisition d'expérience dans des projets diversifiés et je suis toujours ouvert à des opportunités d'apprentissage et de croissance.
 
 Merci de visiter mon profil ! Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter.
-
-Merci de visiter mon profil ! Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter. 
