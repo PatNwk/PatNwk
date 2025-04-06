@@ -34,7 +34,7 @@ Actuellement, j'approfondis mes compétences en :
 ## 📫 Me Contacter
 
 - **Email** : patrick.nowak@ynov.com
-- **LinkedIn** : [linkedin.com/in/patrick-nowak-479503333](https://www.linkedin.com/in/patrick-nowak-479503333/)
+- **LinkedIn** : [[linkedin.com/in/patrick-nowak-479503333](https://www.linkedin.com/in/patrick-nowak-479503333/)](https://www.linkedin.com/in/nowak-patrick/)
 
 ## 💡 Objectifs de Carrière
 
