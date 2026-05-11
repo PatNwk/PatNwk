@@ -48,56 +48,49 @@ Domaines pratiqués :
 
 ---
 
-## 🚀 Projets Notables
+## 🔐 Parcours Cybersécurité
 
-### 🏁 FirstLap
+La cybersécurité est le domaine vers lequel je souhaite progressivement me spécialiser.
 
-**FirstLap** est une plateforme web de mise en relation entre **pilotes** et **sponsors** dans le domaine du sport automobile.
+Je m'intéresse autant à la compréhension des vulnérabilités qu'à la manière de les corriger et de concevoir des systèmes plus sûrs.
 
-L'objectif du projet est de faciliter les partenariats entre les acteurs du sport mécanique grâce à une interface claire et un système de matching adapté.
+Ce que je pratique :
 
-Fonctionnalités principales :
-
-- Création de profils utilisateurs
-- Gestion de profils pilotes
-- Gestion de profils sponsors
-- Système de matchmaking basé sur des critères définis
-- Interface utilisateur responsive
-- Expérience pensée pour faciliter les prises de contact
-
-Compétences travaillées :
-
-- Développement web
-- Conception d'interface
-- Structuration de projet
-- Gestion de données
-- Logique métier
-- Travail en équipe
+- Challenges CTF
+- Sécurité web
+- Bases du pentest
+- Analyse de vulnérabilités
+- Reverse engineering débutant
+- Scripting pour automatiser des tâches
+- Compréhension des systèmes Linux
+- Analyse réseau
+- Recherche et documentation technique
 
 ---
 
-### 🎮 Jeu du Pendu
+## 🧪 Labs & Expérimentations
 
-Jeu du pendu développé en **Go**, jouable directement depuis un terminal.
+J'utilise mon GitHub pour documenter et partager mes apprentissages techniques.
 
-Ce projet m'a permis de travailler la logique algorithmique, la gestion des entrées utilisateur et la structuration d'un programme en ligne de commande.
+On peut y retrouver :
 
-Fonctionnalités principales :
+- Des scripts d'automatisation
+- Des exercices de programmation
+- Des tests autour de la cybersécurité
+- Des notes techniques
+- Des expérimentations web
+- Des projets d'apprentissage
+- Des résolutions de challenges
+- Des outils personnels simples
 
-- Jeu en ligne de commande
-- Choix de langue : français et anglais
-- Détection des lettres proposées
-- Gestion du nombre de tentatives
-- Affichage progressif du pendu
-- Gestion de la victoire et de la défaite
+Plateformes et environnements que j'utilise :
 
-Compétences travaillées :
-
-- Programmation en Go
-- Logique algorithmique
-- Manipulation de chaînes de caractères
-- Gestion des erreurs
-- Organisation du code
+- Hack The Box
+- Root-Me
+- TryHackMe
+- Machines virtuelles Linux
+- Environnements Docker
+- Labs personnels
 
 ---
 
@@ -123,37 +116,6 @@ Compétences travaillées :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🔐 Cybersécurité
-
-La cybersécurité est le domaine vers lequel je souhaite progressivement me spécialiser.
-
-Je m'intéresse autant à la compréhension des vulnérabilités qu'à la manière de les corriger et de concevoir des systèmes plus sûrs.
-
-Domaines d'intérêt :
-
-- Sécurité web
-- Réseaux TCP/IP
-- Administration Linux
-- Reverse engineering débutant
-- Analyse de vulnérabilités
-- CTF
-- Scripting
-- Hardening système
-- Sécurité applicative
-- Méthodologie offensive et défensive
-
-Plateformes et pratiques :
-
-- Hack The Box
-- Root-Me
-- TryHackMe
-- Labs personnels
-- Challenges CTF
-- Scripts d'automatisation
-- Veille cybersécurité
 
 ---
 
@@ -185,6 +147,7 @@ Mon objectif est de devenir un profil technique polyvalent, capable de comprendr
 - Participer à davantage de CTF
 - Améliorer mes connaissances système et réseau
 - Construire des projets concrets et utiles
+- Documenter mes apprentissages sur GitHub
 
 À long terme, je souhaite me spécialiser dans la cybersécurité afin de contribuer à la protection des applications, des systèmes et des infrastructures.
 
