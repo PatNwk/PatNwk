@@ -155,11 +155,10 @@ Mon objectif est de devenir un profil technique polyvalent, capable de comprendr
 
 ## 📊 Statistiques GitHub
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatNwk&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatNwk&layout=compact&theme=tokyonight)
 
-> Remplace `TON_USERNAME` par ton pseudo GitHub.
 
 ---
 
