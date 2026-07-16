@@ -173,7 +173,7 @@ Mon objectif est de devenir un profil technique polyvalent, capable de comprendr
 
 ```bash
 patrick@github:~$ whoami
-Étudiant en informatique | Membre du Ynov Cyber Crew | Futur spécialiste cybersécurité
+Étudiant en informatique | Membre du Ynov Cyber Crew | Futur spécialiste cybersécurité | Alternant
 
 patrick@github:~$ cat goals.txt
 Build. Break. Learn. Secure.
