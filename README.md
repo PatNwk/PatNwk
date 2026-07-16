@@ -153,15 +153,6 @@ Mon objectif est de devenir un profil technique polyvalent, capable de comprendr
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatNwk&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatNwk&layout=compact&theme=tokyonight)
-
-
----
-
 ## 📫 Me contacter
 
 - Email : **patrick.nowak@ynov.com**
